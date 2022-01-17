@@ -1,5 +1,5 @@
 # Managing commands
-
+|  **Colors [canal cores
 !!! info
     Please consider using the Dashboard at [https://carl.gg](https://carl.gg) it is much, much easier for this and allows for per-command customization *far* beyond what commands offer.
 
